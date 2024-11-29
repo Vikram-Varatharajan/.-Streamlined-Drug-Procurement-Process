@@ -1,0 +1,8 @@
+pip install fastapi
+pip install uvicorn
+pip install pydantic
+pip install python-dotenv
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install tensorflow
